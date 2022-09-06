@@ -4,7 +4,7 @@
 
 
 <ul>
-	<li>add<add>
-        <li>commit<add>
+	<li>add<li>
+        <li>commit<li>
 
 </ul>
